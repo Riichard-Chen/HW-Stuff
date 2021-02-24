@@ -1,0 +1,36 @@
+
+<!--
+     Richard Chen
+     IntroCS pd06 sec10
+     HW 06
+     2021-02-24
+-->
+
+h1 {
+   color: blue;
+   font-size: 18;
+   font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+   font-size: 14;
+   color: red;
+}
+
+a {
+   font-size: 10;
+   color: green;
+}
+
+p {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
